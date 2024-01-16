@@ -1,0 +1,19 @@
+.body{
+    background-color: lightblue;
+}
+
+.center-text{
+    text-align: center;
+}
+
+p.center-text{
+    color:red;
+}
+
+#para{
+    font-style: italic;
+}
+
+#para2{
+    font-weight: bold;
+}
